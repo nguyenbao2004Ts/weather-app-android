@@ -37,10 +37,10 @@ class _HomeState extends State<Home> {
   List forecastDayList = []; //To hold our weather data after api call
 
   //Api calls url
-  static String API_KEY = '8ca393ea6e9f43ecadd151716251303'; //Paste Your API Here
-  String searchWeatherAPI = "https://api.weatherapi.com/v1/forecast.json?key=" +
+  static String API_KEY = ''; //Paste Your API Here
+  String searchWeatherAPI = "" +
       API_KEY +
-      "&days=7&q="; //to get weather details using the location
+      ""; //to get weather details using the location
 
   //Fetch weather data from WeatherAPI
   void fetchWeatherData() async {
