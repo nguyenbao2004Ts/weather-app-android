@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "630318929273",
+    "project_id": "nguyenbao-fd5ff",
+    "storage_bucket": "nguyenbao-fd5ff.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630318929273:android:bb3de63e84161bc4660ba8",
+        "android_client_info": {
+          "package_name": "com.abc.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCR-Kr6q59XLtwFkuns7CSBNMUMG77lzN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630318929273:android:62258804c8b95e6b660ba8",
+        "android_client_info": {
+          "package_name": "com.example.appthoitiet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCR-Kr6q59XLtwFkuns7CSBNMUMG77lzN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
